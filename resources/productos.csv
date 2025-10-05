@@ -1,0 +1,11 @@
+nombre,stock,precio,descripcion_producto,area,id_producto
+Laptop,15,25000.0,Equipo de cómputo ligero,Tecnología,PRD001
+Mouse,50,450.50,Accesorio para computadora,Tecnología,PRD002
+Silla ergonómica,20,3500.0,Silla con soporte lumbar,Mobiliario,PRD003
+Escritorio,10,2800.0,Mesa amplia para oficina,Mobiliario,PRD004
+Smartphone,30,15000.0,Dispositivo móvil inteligente,Tecnología,PRD005
+Audífonos,40,899.90,Accesorio para escuchar música,Tecnología,PRD006
+Cafetera,12,1200.0,Electrodoméstico para café,Hogar,PRD007
+Proyector,8,7500.0,Equipo para presentaciones,Tecnología,PRD008
+Botella,25,250.0,Botella para agua,Hogar,PRD009
+Teclado,18,950.0,Accesorio para computadora,Tecnología,PRD010
