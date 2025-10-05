@@ -2,8 +2,7 @@
 
 Aplicación de escritorio desarrollada en Java con JavaFX para la gestión de inventario y registro de ventas. Este proyecto demuestra la implementación de una arquitectura de 3 capas (Presentación, Lógica y Datos) y el manejo de persistencia de datos a través de serialización.
 
-![Captura de pantalla de la aplicación](https-placeholder-for-your-app-screenshot.com)
-*(Sube una captura de pantalla de tu app a un sitio como Imgur y reemplaza el enlace de arriba para que tu portafolio se vea increíble)*
+
 
 ## ✨ Características Principales
 
