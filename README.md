@@ -1,17 +1,17 @@
-# Sistema de Gestión de Inventario Inventory Management System 📦
+# Sistema de Gestión de Inventario Inventory Management System 
 
 Aplicación de escritorio desarrollada en Java con JavaFX para la gestión de inventario y registro de ventas. Este proyecto demuestra la implementación de una arquitectura de 3 capas (Presentación, Lógica y Datos) y el manejo de persistencia de datos a través de serialización.
 
 
 
-## ✨ Características Principales
+##  Características Principales
 
 * **Gestión de Inventario:** Permite crear, editar y eliminar productos del inventario.
 * **Módulo de Ventas:** Interfaz intuitiva para seleccionar productos y registrar ventas.
 * **Historial de Ventas:** Visualización detallada de todas las transacciones realizadas, incluyendo fecha y total.
 * **Persistencia de Datos:** Toda la información se guarda localmente, asegurando que los datos no se pierdan al cerrar la aplicación.
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 * **Lenguaje:** Java 23 (OpenJDK)
 * **Interfaz Gráfica:** JavaFX 24
@@ -19,7 +19,7 @@ Aplicación de escritorio desarrollada en Java con JavaFX para la gestión de in
 * **Gestión de Versiones:** Git y GitHub
 
 ---
-## 🚀 Guía de Instalación y Ejecución
+##  Guía de Instalación y Ejecución
 
 Sigue estos pasos para ejecutar el proyecto localmente.
 
